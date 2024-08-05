@@ -66,6 +66,8 @@ All changes that require a CIP SHOULD adhere to the following generic process.
 
 ## Rationale: how does this CIP achieve its goals?
 
+<!-- TODO: Not sure what we want to write here. The corresponding Plutus and Ledger sections do not seem to answer the question asked in this section header. Aren't the goals of this CIP achieved by having the CIP approved and people following it? -->
+
 ## Path to Active
 
 ## Copyright
