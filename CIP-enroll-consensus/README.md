@@ -19,6 +19,18 @@ License: CC-BY-4.0
 
 ## Motivation: why is this CIP necessary?
 
+[Consensus](https://github.com/IntersectMBO/ouroboros-consensus) is one of the components of the [Cardano node][cardano-node].
+TODO: should we sumarize the information described [here](https://ouroboros-consensus.cardano.intersectmbo.org/docs/about-ouroboros/)?
+
+We need this CIP to:
+<!-- TODO: remove the ones that do not apply, add more if needed -->
+
+- Encourage new collaborators.
+- Give guidance for future CIPs that aim at changing Consensus, making it a registered category of the CIP process.
+- Give a taxonomy of Consensus changes and prescibe processes for proposing such changes.
+- Standardize the process by which Consensus is updated (with new features or fixes).
+- Serve as reference to other Cardano node implementations (different from the [de facto one](https://github.com/IntersectMBO/cardano-node)).
+
 ## Specification
 
 ## Rationale: how does this CIP achieve its goals?
@@ -30,3 +42,4 @@ License: CC-BY-4.0
 This CIP is licensed under [CC-BY-4.0][].
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/legalcode
+[cardano-node]: https://github.com/input-output-hk/cardano-node
