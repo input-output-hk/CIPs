@@ -33,6 +33,37 @@ We need this CIP to:
 
 ## Specification
 
+Aspects we might need to mention:
+
+- When and how new versions of consensus are released. In particular, we might need to summarize and link our release process.
+    - Type of releases (eg hard-fork, soft-fork).
+    - Examples of when minor or major version bumps are needed.
+	- Examples of notable exceptions to our version bumps (eg backports).
+- How protocol parameters affect Consensus.
+- How are the new versions of Consensus integrated into the node.
+- Description of the different types of Consensus changes. Eg
+    - Performance improvements.
+	- Hotfixes.
+	- Bug fixes.
+	- New protocols.
+- Table matching types of changes to type of releases.
+
+### The Consensus reviewers
+
+The following table gives the current set of reviewers for Consensus CIPs.
+
+| Name | Email | GitHub username |
+|------|-------|-----------------|
+|      |       |                 |
+
+### Changes that require a CIP
+
+### Processes
+
+All changes that require a CIP SHOULD adhere to the following generic process.
+
+...
+
 ## Rationale: how does this CIP achieve its goals?
 
 ## Path to Active
